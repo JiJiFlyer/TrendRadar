@@ -6,7 +6,7 @@ A股
 华为
 鸿蒙
 HarmonyOS
-任正非
+@2
 
 比亚迪
 王传福
@@ -30,7 +30,9 @@ QQ
 元宝
 
 游戏
+
 steam
+
 TGA
 
 任天堂
@@ -93,6 +95,8 @@ google
 gemini
 
 DeepSeek
+hunyuan
+
 gpt
 openai
 qwen
